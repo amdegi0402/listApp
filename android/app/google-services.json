@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "490875535018",
+    "firebase_url": "https://fir-testapp-c2b63.firebaseio.com",
+    "project_id": "fir-testapp-c2b63",
+    "storage_bucket": "fir-testapp-c2b63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490875535018:android:9c8703d16d25b37314dad3",
+        "android_client_info": {
+          "package_name": "com.amdegi.campersItem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490875535018-arggbmvqdeiulern77pgtvusrknt40ru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKzFyMSqRmZpA2OrA1az2WmVUGSlRLIbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490875535018-arggbmvqdeiulern77pgtvusrknt40ru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
